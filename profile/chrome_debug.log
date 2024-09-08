@@ -1,0 +1,1241 @@
+[11044:4428:0908/144146.497:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.120 (not a warning)
+[11044:4428:0908/144146.502:VERBOSE1:chrome_browser_cloud_management_controller.cc(97)] DM token = empty
+[11044:4428:0908/144146.502:VERBOSE1:chrome_browser_cloud_management_controller.cc(103)] Enrollment token = 
+[11044:4428:0908/144146.502:VERBOSE1:chrome_browser_cloud_management_controller.cc(104)] Client ID = 25f5c9d9-ca49-47aa-b83b-b76c61f37714
+[11044:4428:0908/144146.502:VERBOSE1:variations_field_trial_creator_base.cc(77)] VariationsSeedUsage:2
+[11044:4428:0908/144146.502:VERBOSE1:variations_field_trial_creator_base.cc(350)] VariationsSetupComplete
+[11044:4428:0908/144146.531:VERBOSE1:webrtc_event_log_manager.cc(97)] WebRTC remote-bound event logging enabled.
+[11044:4428:0908/144146.531:VERBOSE1:pref_proxy_config_tracker_impl.cc(191)] 00005E240006C580: set chrome proxy config service to 00005E2400118340
+[11044:4428:0908/144146.563:VERBOSE1:device_event_log_impl.cc(198)] [14:41:46.557] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[11044:4428:0908/144146.564:VERBOSE1:device_event_log_impl.cc(198)] [14:41:46.561] Display: EVENT: screen_win.cc:895 Display[2654752196] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[11044:10152:0908/144146.565:VERBOSE1:media_stream_manager.cc(1533)] MSM::InitializeMaybeAsync([this=00005E24000B2200])
+[11044:10152:0908/144146.565:VERBOSE1:media_stream_manager.cc(1533)] MDM::MediaDevicesManager()
+[11044:10152:0908/144146.565:VERBOSE1:media_stream_manager.cc(1533)] MSM::MediaStreamManager([this=00005E24000B2200]))
+[11044:4428:0908/144146.565:VERBOSE1:chrome_browser_cloud_management_controller.cc(168)] Starting CBCM Controller Initialization
+[11044:4428:0908/144146.565:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[11044:4428:0908/144146.565:VERBOSE1:install_util.cc(216)] Existing Chrome version found: 128.0.6613.120
+[11044:4428:0908/144146.582:VERBOSE1:pref_proxy_config_tracker_impl.cc(191)] 00005E240006E100: set chrome proxy config service to 00005E240011D620
+[11044:4428:0908/144146.582:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(225)] MutablePO2TS::MutablePO2TS
+[11044:4428:0908/144146.582:VERBOSE1:pref_proxy_config_tracker_impl.cc(191)] 00005E240006FF40: set chrome proxy config service to 00005E240011E4C0
+[11044:4428:0908/144146.582:VERBOSE1:device_event_log_impl.cc(198)] [14:41:46.594] Bluetooth: EVENT: bluetooth_api.cc:82 BluetoothAPI: 00005E24005C1C00
+[11044:4428:0908/144146.598:VERBOSE1:gaia_auth_util.cc(51)] Canonicalized @gmail.com to @gmail.com
+[11044:4428:0908/144146.598:VERBOSE1:gaia_auth_util.cc(51)] Canonicalized @gmail.com to @gmail.com
+[11044:4428:0908/144146.599:VERBOSE1:bluetooth_low_energy_event_router.cc(289)] Initializing BluetoothLowEnergyEventRouter.
+[11044:16224:0908/144146.602:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[11044:4428:0908/144146.605:VERBOSE1:cached_result_provider.cc(54)] CachedResultProvider loaded prefs with results from previous session: PredictionResult: timestamp: 13370182976706595 result 0: 1 for segmentation key chrome_low_user_engagement
+[11044:4428:0908/144146.605:VERBOSE1:cached_result_provider.cc(54)] CachedResultProvider loaded prefs with results from previous session: PredictionResult: timestamp: 13370182976707784 result 0: 0 for segmentation key search_user
+[11044:4428:0908/144146.605:VERBOSE1:cached_result_provider.cc(54)] CachedResultProvider loaded prefs with results from previous session: PredictionResult: timestamp: 13370182976706976 result 0: 0 for segmentation key shopping_user
+[11044:4428:0908/144146.605:VERBOSE1:cached_result_provider.cc(54)] CachedResultProvider loaded prefs with results from previous session: PredictionResult: timestamp: 13370182976710608 result 0: 1 for segmentation key cross_device_user
+[11044:4428:0908/144146.605:VERBOSE1:cached_result_provider.cc(54)] CachedResultProvider loaded prefs with results from previous session: PredictionResult: timestamp: 13370182976710820 result 0: 0 for segmentation key resume_heavy_user
+[11044:4428:0908/144146.605:VERBOSE1:cached_result_provider.cc(54)] CachedResultProvider loaded prefs with results from previous session: PredictionResult: timestamp: 13370182976712935 result 0: 0 for segmentation key password_manager_user
+[11044:4428:0908/144146.608:VERBOSE1:extension_service.cc(1577)] AddComponentExtension Web Store
+[11044:4428:0908/144146.608:VERBOSE1:extension_service.cc(1577)] AddComponentExtension Chrome PDF Viewer
+[11044:10152:0908/144146.608:VERBOSE1:content_verifier.cc(828)] OnFetchComplete ahfgeienlihckogmohjhadlkjgocpleb success:0
+[11044:10152:0908/144146.608:VERBOSE1:content_verifier.cc(828)] OnFetchComplete mhjfbmdgcfjbbpaeojofohoefgiehjai success:0
+[11044:4428:0908/144146.614:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144146.614:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144146.614:VERBOSE1:account_reconcilor.cc(186)] AccountReconcilor::AccountReconcilor
+[11044:4428:0908/144146.614:VERBOSE1:account_reconcilor.cc(224)] AccountReconcilor::Initialize
+[11044:4428:0908/144146.614:VERBOSE1:account_reconcilor.cc(274)] AccountReconcilor::RegisterWithContentSettings
+[11044:4428:0908/144146.614:VERBOSE1:account_reconcilor.cc(295)] AccountReconcilor::RegisterWithIdentityManager
+[11044:4428:0908/144146.615:VERBOSE1:profile_manager.cc(1992)] ForceSigninCheck: 0, 0, 1
+[11044:4428:0908/144146.616:VERBOSE1:profile_manager.cc(1325)] AddKeepAlive(Default, kRemoteDebugging). keep_alives=[kWaitingForFirstBrowserWindow (1), kRemoteDebugging (1)]
+[11044:4428:0908/144146.616:VERBOSE1:media_foundation_widevine_cdm_component_installer.cc(170)] Registering Media Foundation Widevine CDM component.
+[11044:13020:0908/144146.616:VERBOSE1:component_installer.cc(452)] StartRegistration for Chrome Improved Recovery
+[11044:2704:0908/144146.616:VERBOSE1:component_installer.cc(452)] StartRegistration for Google Widevine Windows CDM
+[11044:4428:0908/144146.616:VERBOSE1:on_device_head_suggest_component_installer.cc(61)] On Device Head Component will fetch model for locale: ENUS500000
+[11044:4428:0908/144146.616:VERBOSE1:trust_token_key_commitments_component_installer.cc(30)] Registering Trust Token Key Commitments component.
+[11044:4428:0908/144146.617:VERBOSE1:first_party_sets_component_installer.cc(39)] Registering Related Website Sets component.
+[11044:4428:0908/144146.617:VERBOSE1:privacy_sandbox_attestations_component_installer.cc(190)] Registering Privacy Sandbox Attestations component
+[11044:13020:0908/144146.617:VERBOSE1:component_installer.cc(452)] StartRegistration for Widevine Content Decryption Module
+[11044:11556:0908/144146.617:VERBOSE1:component_installer.cc(452)] StartRegistration for Privacy Sandbox Attestations
+[11044:4428:0908/144146.617:VERBOSE1:file_type_policies_component_installer.cc(129)] Registering File Type Policies component.
+[11044:11556:0908/144146.617:VERBOSE1:component_installer.cc(287)] Preinstalled component found for Privacy Sandbox Attestations at C:\Program Files\Google\Chrome\Application\128.0.6613.120\PrivacySandboxAttestationsPreloaded with version 2024.7.12.0.
+[11044:4428:0908/144146.617:VERBOSE1:hyphenation_component_installer.cc(152)] Registering Hyphenation component.
+[11044:23448:0908/144146.617:VERBOSE1:component_installer.cc(452)] StartRegistration for OnDeviceHeadSuggest
+[11044:13020:0908/144146.617:VERBOSE1:component_installer.cc(287)] Preinstalled component found for Widevine Content Decryption Module at C:\Program Files\Google\Chrome\Application\128.0.6613.120\WidevineCdm with version 4.10.2830.0.
+[11044:4428:0908/144146.617:VERBOSE1:tpcd_metadata_component_installer.cc(23)] Third Party Cookie Deprecation Metadata component.
+[11044:2704:0908/144146.617:VERBOSE1:component_installer.cc(452)] StartRegistration for Optimization Hints
+[11044:23448:0908/144146.617:VERBOSE1:on_device_head_suggest_component_installer.cc(85)] On Device head model is successfully installed at directory: H:\Telegram Bot using selenium (NON GUI)\profile\OnDeviceHeadSuggestModel\20240823.667410168.14
+[11044:11556:0908/144146.617:VERBOSE1:component_installer.cc(452)] StartRegistration for Trust Token Key Commitments
+[11044:23448:0908/144146.618:VERBOSE1:component_installer.cc(452)] StartRegistration for Certificate Error Assistant
+[11044:2704:0908/144146.618:VERBOSE1:component_installer.cc(452)] StartRegistration for File Type Policies
+[11044:11556:0908/144146.618:VERBOSE1:component_installer.cc(452)] StartRegistration for CRLSet
+[11044:23448:0908/144146.618:VERBOSE1:component_installer.cc(452)] StartRegistration for Origin Trials
+[11044:13020:0908/144146.618:VERBOSE1:component_installer.cc(452)] StartRegistration for MEI Preload
+[11044:2704:0908/144146.619:VERBOSE1:component_installer.cc(452)] StartRegistration for Third Party Module List
+[11044:11556:0908/144146.619:VERBOSE1:component_installer.cc(452)] StartRegistration for PKI Metadata
+[11044:13020:0908/144146.619:VERBOSE1:component_installer.cc(287)] Preinstalled component found for MEI Preload at C:\Program Files\Google\Chrome\Application\128.0.6613.120\MEIPreload with version 1.0.7.1652906823.
+[11044:16224:0908/144146.617:VERBOSE1:component_installer.cc(452)] StartRegistration for Subresource Filter Rules
+[11044:22244:0908/144146.619:VERBOSE1:component_installer.cc(452)] StartRegistration for Crowd Deny
+[11044:4428:0908/144146.619:VERBOSE1:profile_manager.cc(1325)] AddKeepAlive(Default, kBrowserWindow). keep_alives=[kWaitingForFirstBrowserWindow (1), kBrowserWindow (1), kRemoteDebugging (1)]
+[11044:4428:0908/144146.619:VERBOSE1:profile_manager.cc(1398)] ClearFirstBrowserWindowKeepAlive(Default). keep_alives=[kBrowserWindow (1), kRemoteDebugging (1)]
+[11044:11556:0908/144146.619:VERBOSE1:component_installer.cc(452)] StartRegistration for Hyphenation
+[11044:2704:0908/144146.619:VERBOSE1:component_installer.cc(452)] StartRegistration for Zxcvbn Data Dictionaries
+[11044:22244:0908/144146.619:VERBOSE1:component_installer.cc(452)] StartRegistration for Autofill States Data
+[11044:11556:0908/144146.620:VERBOSE1:component_installer.cc(452)] StartRegistration for Third-Party Cookie Deprecation Metadata
+[11044:23448:0908/144146.624:VERBOSE1:command_storage_backend.cc(602)] CommandStorageBackend::ReadLastSessionCommands, reading commands from: H:\Telegram Bot using selenium (NON GUI)\profile\Default\Sessions\Session_13370256358524705
+[11044:13020:0908/144146.625:VERBOSE1:command_storage_backend.cc(602)] CommandStorageBackend::ReadLastSessionCommands, reading commands from: H:\Telegram Bot using selenium (NON GUI)\profile\Default\Sessions\Tabs_13370256358762792
+[11044:7392:0908/144146.629:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[11044:8508:0908/144146.632:VERBOSE1:token_service_table.cc(178)] Loaded tokens: result = 3 ; number of tokens loaded = 0
+[11044:19064:0908/144146.619:VERBOSE1:component_installer.cc(452)] StartRegistration for Safety Tips
+[11044:4428:0908/144146.685:VERBOSE1:gaia_auth_util.cc(51)] Canonicalized @gmail.com to @gmail.com
+[11044:4428:0908/144146.685:VERBOSE1:gaia_auth_util.cc(51)] Canonicalized @gmail.com to @gmail.com
+[11044:4428:0908/144146.714:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144146.716:VERBOSE1:account_reconcilor.cc(377)] AccountReconcilor::OnContentSettingChanged
+[11044:4428:0908/144146.716:VERBOSE1:account_reconcilor.cc(466)] AccountReconcilor::StartReconcile: token service *not* ready yet.
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Chrome Improved Recovery
+[11044:4428:0908/144146.739:VERBOSE1:component_updater_service.cc(163)] CrxUpdateService starting up. First update attempt will take place in 60 s seconds. Next update attempt will take place in 18000 s seconds. 
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Google Widevine Windows CDM
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 1.0.2738.0 in H:\Telegram Bot using selenium (NON GUI)\profile\MediaFoundationWidevineCdm\x64\1.0.2738.0
+[11044:4428:0908/144146.739:VERBOSE1:media_foundation_widevine_cdm_component_installer.cc(105)] Component ready, version 1.0.2738.0 in H:\Telegram Bot using selenium (NON GUI)\profile\MediaFoundationWidevineCdm\x64\1.0.2738.0
+[11044:4428:0908/144146.739:VERBOSE1:media_foundation_widevine_cdm_component_installer.cc(108)] Register Media Foundation Widevine CDM
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Widevine Content Decryption Module
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 4.10.2830.0 in C:\Program Files\Google\Chrome\Application\128.0.6613.120\WidevineCdm
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Privacy Sandbox Attestations
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 2024.8.23.1 in H:\Telegram Bot using selenium (NON GUI)\profile\PrivacySandboxAttestationsPreloaded\2024.8.23.1
+[11044:4428:0908/144146.739:VERBOSE1:privacy_sandbox_attestations_component_installer.cc(120)] Privacy Sandbox Attestations Component ready, version 2024.8.23.1 in H:\Telegram Bot using selenium (NON GUI)\profile\PrivacySandboxAttestationsPreloaded\2024.8.23.1
+[11044:4428:0908/144146.739:VERBOSE1:privacy_sandbox_attestations_component_installer.cc(197)] Received privacy sandbox attestations file
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for OnDeviceHeadSuggest
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 20240823.667410168.14 in H:\Telegram Bot using selenium (NON GUI)\profile\OnDeviceHeadSuggestModel\20240823.667410168.14
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Optimization Hints
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 464 in H:\Telegram Bot using selenium (NON GUI)\profile\OptimizationHints\464
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Trust Token Key Commitments
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 2024.9.3.1 in H:\Telegram Bot using selenium (NON GUI)\profile\TrustTokenKeyCommitments\2024.9.3.1
+[11044:4428:0908/144146.739:VERBOSE1:trust_token_key_commitments_component_installer_policy.cc(111)] Component ready, version 2024.9.3.1 in H:\Telegram Bot using selenium (NON GUI)\profile\TrustTokenKeyCommitments\2024.9.3.1
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Certificate Error Assistant
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 7 in H:\Telegram Bot using selenium (NON GUI)\profile\SSLErrorAssistant\7
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for File Type Policies
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 66 in H:\Telegram Bot using selenium (NON GUI)\profile\FileTypePolicies\66
+[11044:4428:0908/144146.739:VERBOSE1:file_type_policies_component_installer.cc(90)] Component ready, version 66 in H:\Telegram Bot using selenium (NON GUI)\profile\FileTypePolicies\66
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for CRLSet
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 9097 in H:\Telegram Bot using selenium (NON GUI)\profile\CertificateRevocation\9097
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Origin Trials
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 1.0.0.17 in H:\Telegram Bot using selenium (NON GUI)\profile\OriginTrials\1.0.0.17
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for MEI Preload
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 1.0.7.1652906823 in C:\Program Files\Google\Chrome\Application\128.0.6613.120\MEIPreload
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for PKI Metadata
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 1067 in H:\Telegram Bot using selenium (NON GUI)\profile\PKIMetadata\1067
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Third Party Module List
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 2018.8.8.0 in H:\Telegram Bot using selenium (NON GUI)\profile\ThirdPartyModuleList64\2018.8.8.0
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Crowd Deny
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 2023.11.29.1201 in H:\Telegram Bot using selenium (NON GUI)\profile\Crowd Deny\2023.11.29.1201
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Hyphenation
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 120.0.6050.0 in H:\Telegram Bot using selenium (NON GUI)\profile\hyphen-data\120.0.6050.0
+[11044:4428:0908/144146.739:VERBOSE1:hyphenation_component_installer.cc(110)] Hyphenation Component ready, version 120.0.6050.0 in H:\Telegram Bot using selenium (NON GUI)\profile\hyphen-data\120.0.6050.0
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Zxcvbn Data Dictionaries
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 3 in H:\Telegram Bot using selenium (NON GUI)\profile\ZxcvbnData\3
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Subresource Filter Rules
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 9.49.1 in H:\Telegram Bot using selenium (NON GUI)\profile\Subresource Filter\Unindexed Rules\9.49.1
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Third-Party Cookie Deprecation Metadata
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 2024.9.4.1 in H:\Telegram Bot using selenium (NON GUI)\profile\TpcdMetadata\2024.9.4.1
+[11044:4428:0908/144146.739:VERBOSE1:tpcd_metadata_component_installer_policy.cc(91)] TPCD Metadata Component ready, version 2024.9.4.1 in H:\Telegram Bot using selenium (NON GUI)\profile\TpcdMetadata\2024.9.4.1
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Autofill States Data
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 2024.7.12.235938 in H:\Telegram Bot using selenium (NON GUI)\profile\AutofillStates\2024.7.12.235938
+[11044:4428:0908/144146.739:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(409)] MutablePO2TS::OnWebDataServiceRequestDone. Result type: 6
+[11044:4428:0908/144146.739:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(467)] MutablePO2TS::LoadAllCredentialsIntoMemory; 0 redential(s).
+[11044:4428:0908/144146.739:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144146.739:VERBOSE1:account_reconcilor.cc(390)] AccountReconcilor::OnEndBatchOfRefreshTokenStateChanges. Reconcilor state: 1
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(531)] FinishRegistration for Safety Tips
+[11044:4428:0908/144146.739:VERBOSE1:component_installer.cc(572)] Component ready, version 3040 in H:\Telegram Bot using selenium (NON GUI)\profile\SafetyTips\3040
+[21024:20348:0908/144146.749:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[11044:4428:0908/144146.749:VERBOSE1:device_event_log_impl.cc(198)] [14:41:46.749] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[11044:4428:0908/144146.749:VERBOSE1:device_event_log_impl.cc(198)] [14:41:46.750] Display: EVENT: screen_win.cc:895 Display[2654752196] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[11044:4428:0908/144146.750:VERBOSE1:service_discovery_device_lister.cc(36)] DeviceListerStart: service_type: _googlecast._tcp.local
+[11044:4428:0908/144146.750:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[11044:4428:0908/144146.751:VERBOSE1:gaia_cookie_manager_service.cc(846)] GaiaCookieManagerService::ListAccounts
+[21024:20348:0908/144146.752:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[11044:4428:0908/144146.765:VERBOSE1:widevine_cdm_component_installer.cc(95)] Registering Widevine CDM 4.10.2830.0 with Chrome
+[11044:4428:0908/144146.765:VERBOSE1:privacy_sandbox_attestations.cc(406)] Parsed Privacy Sandbox Attestation list version: 2024.8.23.1
+[11044:4428:0908/144146.765:VERBOSE1:privacy_sandbox_attestations.cc(408)] Number of attestation entries: 253
+[15456:16448:0908/144146.769:INFO:cpu_info.cc(53)] Available number of cores: 8
+[16588:8504:0908/144146.782:ERROR:gpu_channel_manager.cc(952)] Failed to create GLES3 context, fallback to GLES2.
+[16588:8504:0908/144146.786:ERROR:gpu_channel_manager.cc(963)] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[15456:16448:0908/144146.800:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  000074240014E250
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[15456:16448:0908/144146.800:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[15456:16448:0908/144146.801:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[15456:16448:0908/144146.803:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 0
+[15456:16448:0908/144146.805:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  000074240014E250
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[15456:16448:0908/144146.805:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[15456:16448:0908/144146.806:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[15456:16448:0908/144146.806:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[15456:16448:0908/144146.806:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[11044:4428:0908/144146.810:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144146.822:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:13392:0908/144146.823:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing WebApp.InstalledCount.ByUser
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing WebApp.InstalledCount.ByUserNotLocallyInstalled
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Launch.WebAppDisplayMode
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing WebAppInstallShown
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing WebAppInstallCancelled
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing WebAppDetailedInstallShown
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing WebAppDetailedInstallCancelled
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing NewTabPage.Customized
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Bookmarks.Count.OnProfileLoad3
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing WebApp.MlInstall.DialogResponse
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Session.TotalDuration
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Commerce.PriceDrops.ActiveTabNavigationComplete.IsProductDetailPage
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing Autofill_PolledCreditCardSuggestions
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Omnibox.SuggestionUsed.ClientSummarizedResultType
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing MetadataWriter
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Sync.DeviceCount2
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Sync.DeviceCount2.Phone
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Sync.DeviceCount2.Desktop
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing Sync.DeviceCount2.Tablet
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing MobileBookmarkManagerOpen
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing NewTabPage.MostVisited.Clicked
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing TabGroup.Created.OpenInNewTab
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing Android.HistoryPage.OpenItem
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(54)] Segmentation platform started observing MobileMenuRecentTabs
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing PasswordManager.ManagePasswordsReferrer
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing PasswordManager.ProfileStore.TotalAccountsHiRes3.WithScheme.Https
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing PasswordManager.FillingAssistance
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing PasswordManager.NewlySavedPasswordIsGenerated
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing PasswordManager.SaveUIDismissalReason
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing PasswordManager.SaveUIDismissalReason
+[11044:4428:0908/144146.849:VERBOSE1:signal_filter_processor.cc(61)] Segmentation platform started observing IOS.CredentialExtension.IsEnabled.Startup
+[20776:10868:0908/144146.852:INFO:cpu_info.cc(53)] Available number of cores: 8
+[9280:16460:0908/144146.889:INFO:cpu_info.cc(53)] Available number of cores: 8
+[11044:4428:0908/144147.051:VERBOSE1:segment_result_provider.cc(136)] GetSegmentResult: segment=OPTIMIZATION_TARGET_SEGMENTATION_DEVICE_SWITCHER ignoring DB score, executing model.
+[11044:4428:0908/144147.051:VERBOSE1:segment_result_provider.cc(277)] ExecuteModelAndGetScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_DEVICE_SWITCHER default segment info not available
+[11044:4428:0908/144147.051:VERBOSE1:segment_result_provider.cc(210)] OnGotModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_DEVICE_SWITCHER failed to get database model score, trying default model.
+[21024:20348:0908/144147.664:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+[21024:20348:0908/144147.665:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/
+[21024:20348:0908/144147.668:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[11044:4428:0908/144148.163:VERBOSE1:gaia_cookie_manager_service.cc(710)] ListAccounts successful
+[11044:4428:0908/144148.163:VERBOSE1:gaia_cookie_manager_service.cc(882)] GaiaCookieManagerService::HandleNextRequest
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(611)] AccountReconcilor::OnAccountsInCookieUpdated: CookieJar 0 accounts, Reconcilor's state is 1, Error was 
+[11044:4428:0908/144148.164:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144148.164:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(700)] AccountReconcilor::LoadValidAccountsFromTokenService: Chrome 0 accounts
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(827)] AccountReconcilor::CalculateIfMultiloginReconcileIsDone: Error was 
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(735)] AccountReconcilor::StartReconcileIfChromeAccountsChanged
+[11044:4428:0908/144148.164:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(611)] AccountReconcilor::OnAccountsInCookieUpdated: CookieJar 0 accounts, Reconcilor's state is 1, Error was 
+[11044:4428:0908/144148.164:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144148.164:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(700)] AccountReconcilor::LoadValidAccountsFromTokenService: Chrome 0 accounts
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(827)] AccountReconcilor::CalculateIfMultiloginReconcileIsDone: Error was 
+[11044:4428:0908/144148.164:VERBOSE1:account_reconcilor.cc(735)] AccountReconcilor::StartReconcileIfChromeAccountsChanged
+[11044:4428:0908/144148.204:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCurrentBackForwardCacheEligibility: data:, : No: scheme is not HTTP or HTTPS
+[11044:4428:0908/144148.204:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCompleteBackForwardCacheEligibilityForReporting: data:, : No: scheme is not HTTP or HTTPS
+[15456:16448:0908/144148.205:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 0
+[20776:10868:0908/144148.205:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  00006CCC0014E628
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[15456:16448:0908/144148.206:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[15456:16448:0908/144148.206:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[20776:10868:0908/144148.206:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[20776:10868:0908/144148.206:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[11044:4428:0908/144148.207:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:12608:0908/144148.242:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[11044:11556:0908/144148.269:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[11044:11688:0908/144148.269:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[21024:20348:0908/144148.276:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/redirect.js
+[11044:12608:0908/144148.315:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[11044:2704:0908/144148.411:VERBOSE1:simple_index_file.cc(606)] Simple Cache Index is being restored from disk.
+[21024:20348:0908/144148.537:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/compatTest.js
+[20776:10868:0908/144148.718:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144148.816:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144149.099:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144149.107:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/notification.mp3
+[11044:10152:0908/144149.333:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::RequestDeviceAuthorization({device_id=}) [process_id=7, frame_id=4]
+[11044:10152:0908/144150.071:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted({status=OK}, {params=format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 0, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0}, {device_id=default}) [process_id=7, frame_id=4]
+[11044:10152:0908/144150.071:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted => (authorization time=737 ms) [process_id=7, frame_id=4]
+[21024:20348:0908/144150.074:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/site.webmanifest
+[11044:4428:0908/144150.078:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/ : Yes
+[11044:4428:0908/144150.081:INFO:CONSOLE(1)] "TypeError: Cannot convert undefined or null to object", source: https://web.telegram.org/a/main.3a45cb8d8f2e7c7429a8.js (1)
+[11044:4428:0908/144150.082:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[21024:20348:0908/144150.083:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/manu
+[11044:10152:0908/144150.093:VERBOSE1:media_stream_manager.cc(1533)] AMB::MakeAudioOutputStream({device_id={0.0.0.00000000}.{ca101b3a-e4b3-47f7-be43-5a4a5b63579b}}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 384, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0]})
+[11044:10152:0908/144150.093:VERBOSE1:media_stream_manager.cc(1533)] WAOS::WASAPIAudioOutputStream({device_id={0.0.0.00000000}.{ca101b3a-e4b3-47f7-be43-5a4a5b63579b}}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 384, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0]}, {role=Console}) [this=0x24E400065900]
+[11044:10152:0908/144150.093:VERBOSE1:media_stream_manager.cc(1533)] AMB::MakeAudioOutputStream => (number of streams=1)
+[11044:10152:0908/144150.093:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Open([opened=false]) [this=0x24E400065900]
+[11044:10152:0908/144150.094:VERBOSE1:media_stream_manager.cc(1533)] WAOS::SetupWaveFormat => (audio engine format=[wFormatTag: WAVE_FORMAT_EXTENSIBLE (0xFFFE), nChannels: 2, nSamplesPerSec: 48000, nAvgBytesPerSec: 384000, nBlockAlign: 8, wBitsPerSample: 32, cbSize: 22 [+] wValidBitsPerSample: 32, dwChannelMask: FRONT_LEFT | FRONT_RIGHT (2), SubFormat: KSDATAFORMAT_SUBTYPE_IEEE_FLOAT]) [this=0x24E400065900]
+[11044:10152:0908/144150.094:VERBOSE1:media_stream_manager.cc(1533)] WAOS::SetupWaveFormat => (packet size=[3840 bytes/480 audio frames/10.000 ms]) [this=0x24E400065900]
+[11044:4428:0908/144150.310:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/ : Yes
+[11044:4428:0908/144150.311:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/ : Yes
+[11044:4428:0908/144150.315:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCurrentBackForwardCacheEligibility: https://web.telegram.org/a/ : Yes
+[20776:10868:0908/144150.315:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  00006CCC00326020
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[20776:10868:0908/144150.315:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[20776:10868:0908/144150.315:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 2
+[11044:4428:0908/144150.319:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144150.320:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCurrentBackForwardCacheEligibility: https://web.telegram.org/a/ : No: blocklisted features: requested broadcast channel permission
+[20776:10868:0908/144150.326:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 1
+[20776:10868:0908/144150.327:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[20776:10868:0908/144150.327:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[11044:4428:0908/144150.331:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[11044:4428:0908/144150.331:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCompleteBackForwardCacheEligibilityForReporting: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[11044:4428:0908/144150.332:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[21024:20348:0908/144150.333:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/#-1002443402979
+[11044:4428:0908/144150.334:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[11044:4428:0908/144150.334:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCompleteBackForwardCacheEligibilityForReporting: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[20776:10868:0908/144150.337:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 0
+[20776:10868:0908/144150.339:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  00006CCC00326020
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[20776:10868:0908/144150.339:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[20776:10868:0908/144150.339:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[20776:10868:0908/144150.340:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[20776:10868:0908/144150.340:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[11044:4428:0908/144150.348:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[20776:10868:0908/144150.353:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144150.358:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144150.358:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/notification.mp3
+[11044:10152:0908/144150.358:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::RequestDeviceAuthorization({device_id=}) [process_id=7, frame_id=13]
+[11044:4428:0908/144150.358:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[20776:10868:0908/144150.368:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144150.622:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[11044:10152:0908/144150.767:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Open => (preferred_frames_per_buffer=[480 audio frames]) [this=0x24E400065900]
+[11044:10152:0908/144150.768:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Ctor({audio_manager_name=Windows}, {device_id=default}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}) [controller=0x24E4000629E0]
+[11044:10152:0908/144150.768:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream([state=empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144150.768:VERBOSE1:media_stream_manager.cc(1533)] AOC::RecreateStream({reason = INITIAL_STREAM}, {params = [format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}, [state = empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144150.773:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted({status=OK}, {params=format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 0, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0}, {device_id=default}) [process_id=7, frame_id=13]
+[11044:10152:0908/144150.773:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted => (authorization time=406 ms) [process_id=7, frame_id=13]
+[11044:10152:0908/144150.773:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream => (state=created) [this=0x24E4000629E0]
+[11044:10152:0908/144150.773:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::CreateAudioPipe() [controller=0x24E4000629E0]
+[11044:10152:0908/144150.773:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close([state=created]) [this=0x24E4000629E0]
+[11044:10152:0908/144150.773:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close => (state=closed) [this=0x24E4000629E0]
+[11044:10152:0908/144150.773:VERBOSE1:media_stream_manager.cc(1533)] ASR: number of detected audio glitches: 0 out of 0
+[21024:20348:0908/144150.775:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/site.webmanifest
+[11044:10152:0908/144150.779:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Ctor({audio_manager_name=Windows}, {device_id=default}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}) [controller=0x24E4000629E0]
+[11044:10152:0908/144150.779:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream([state=empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144150.779:VERBOSE1:media_stream_manager.cc(1533)] AOC::RecreateStream({reason = INITIAL_STREAM}, {params = [format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}, [state = empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144150.779:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream => (state=created) [this=0x24E4000629E0]
+[11044:10152:0908/144150.779:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::CreateAudioPipe() [controller=0x24E4000629E0]
+[11044:10152:0908/144150.780:VERBOSE1:media_stream_manager.cc(1533)] WAOS::SetVolume({volume=1.00}) [this=0x24E400065900]
+[11044:10152:0908/144150.780:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Start([opened=true, started=false]) [this=0x24E400065900]
+[11044:10152:0908/144150.784:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Play() [controller=0x24E4000629E0]
+[11044:10152:0908/144150.784:VERBOSE1:media_stream_manager.cc(1533)] AOC::Play([state=created]) [this=0x24E4000629E0]
+[11044:10152:0908/144150.784:VERBOSE1:media_stream_manager.cc(1533)] AOC::StartStream => (state=playing) [this=0x24E4000629E0]
+[21024:20348:0908/144150.949:VERBOSE1:url_loader.cc(1863)] Will sniff content for mime type: https://web.telegram.org/a/site.webmanifest
+[21024:20348:0908/144150.952:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/icon-192x192.png
+[20776:10868:0908/144151.528:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144151.588:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(226)] GetCachedModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_CHROME_LOW_USER_ENGAGEMENT does not have a segment info.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(172)] OnGotModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_CHROME_LOW_USER_ENGAGEMENT failed to get score from database, executing server model.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(277)] ExecuteModelAndGetScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_CHROME_LOW_USER_ENGAGEMENT default segment info not available
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(201)] OnGotModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_CHROME_LOW_USER_ENGAGEMENT failed to get score from executing server model, getting score from default model from db.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(252)] GetCachedModelScore: Retrieved prediction from database: PredictionResult: timestamp: 13370182976706595 result 0: 1 for segment OPTIMIZATION_TARGET_SEGMENTATION_CHROME_LOW_USER_ENGAGEMENT
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(29)] ComputeDiscreteMapping: segment=: result=1, rank=1
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(226)] GetCachedModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SEARCH_USER does not have a segment info.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(172)] OnGotModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SEARCH_USER failed to get score from database, executing server model.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(277)] ExecuteModelAndGetScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SEARCH_USER default segment info not available
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(201)] OnGotModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SEARCH_USER failed to get score from executing server model, getting score from default model from db.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(252)] GetCachedModelScore: Retrieved prediction from database: PredictionResult: timestamp: 13370182976707784 result 0: 0 for segment OPTIMIZATION_TARGET_SEGMENTATION_SEARCH_USER
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(29)] ComputeDiscreteMapping: segment=: result=0, rank=0
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(226)] GetCachedModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER does not have a segment info.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(172)] OnGotModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER failed to get score from database, executing server model.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(277)] ExecuteModelAndGetScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER default segment info not available
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(201)] OnGotModelScore: segment=OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER failed to get score from executing server model, getting score from default model from db.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(252)] GetCachedModelScore: Retrieved prediction from database: PredictionResult: timestamp: 13370182976706976 result 0: 0 for segment OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(29)] ComputeDiscreteMapping: segment=: result=0, rank=0
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(226)] GetCachedModelScore: segment=CROSS_DEVICE_USER_SEGMENT does not have a segment info.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(172)] OnGotModelScore: segment=CROSS_DEVICE_USER_SEGMENT failed to get score from database, executing server model.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(277)] ExecuteModelAndGetScore: segment=CROSS_DEVICE_USER_SEGMENT default segment info not available
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(201)] OnGotModelScore: segment=CROSS_DEVICE_USER_SEGMENT failed to get score from executing server model, getting score from default model from db.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(252)] GetCachedModelScore: Retrieved prediction from database: PredictionResult: timestamp: 13370182976710608 result 0: 1 for segment CROSS_DEVICE_USER_SEGMENT
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(29)] ComputeDiscreteMapping: segment=: result=1, rank=1
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(226)] GetCachedModelScore: segment=RESUME_HEAVY_USER_SEGMENT does not have a segment info.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(172)] OnGotModelScore: segment=RESUME_HEAVY_USER_SEGMENT failed to get score from database, executing server model.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(277)] ExecuteModelAndGetScore: segment=RESUME_HEAVY_USER_SEGMENT default segment info not available
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(201)] OnGotModelScore: segment=RESUME_HEAVY_USER_SEGMENT failed to get score from executing server model, getting score from default model from db.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(252)] GetCachedModelScore: Retrieved prediction from database: PredictionResult: timestamp: 13370182976710820 result 0: 0 for segment RESUME_HEAVY_USER_SEGMENT
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(29)] ComputeDiscreteMapping: segment=: result=0, rank=0
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(226)] GetCachedModelScore: segment=PASSWORD_MANAGER_USER does not have a segment info.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(172)] OnGotModelScore: segment=PASSWORD_MANAGER_USER failed to get score from database, executing server model.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(277)] ExecuteModelAndGetScore: segment=PASSWORD_MANAGER_USER default segment info not available
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(201)] OnGotModelScore: segment=PASSWORD_MANAGER_USER failed to get score from executing server model, getting score from default model from db.
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(252)] GetCachedModelScore: Retrieved prediction from database: PredictionResult: timestamp: 13370182976712935 result 0: 0 for segment PASSWORD_MANAGER_USER
+[11044:4428:0908/144151.852:VERBOSE1:segment_result_provider.cc(29)] ComputeDiscreteMapping: segment=: result=0, rank=0
+[11044:4428:0908/144151.852:VERBOSE1:cached_result_writer.cc(106)] IsPrefUpdateRequiredForClient: previous client_result for segmentation_key: chrome_low_user_engagement has not yet expired. Expiration: 2024-09-14 11:42:56.706713 UTC
+[11044:4428:0908/144151.852:VERBOSE1:cached_result_writer.cc(106)] IsPrefUpdateRequiredForClient: previous client_result for segmentation_key: search_user has not yet expired. Expiration: 2024-09-14 11:42:56.707877 UTC
+[11044:4428:0908/144151.852:VERBOSE1:cached_result_writer.cc(106)] IsPrefUpdateRequiredForClient: previous client_result for segmentation_key: shopping_user has not yet expired. Expiration: 2024-09-09 11:42:56.707684 UTC
+[11044:4428:0908/144151.852:VERBOSE1:cached_result_writer.cc(106)] IsPrefUpdateRequiredForClient: previous client_result for segmentation_key: cross_device_user has not yet expired. Expiration: 2024-09-14 11:42:56.710708 UTC
+[11044:4428:0908/144151.852:VERBOSE1:cached_result_writer.cc(106)] IsPrefUpdateRequiredForClient: previous client_result for segmentation_key: resume_heavy_user has not yet expired. Expiration: 2024-09-21 11:42:56.710886 UTC
+[11044:4428:0908/144151.852:VERBOSE1:cached_result_writer.cc(106)] IsPrefUpdateRequiredForClient: previous client_result for segmentation_key: password_manager_user has not yet expired. Expiration: 2024-09-14 11:42:56.712987 UTC
+[11044:4428:0908/144151.951:VERBOSE1:crash_reporting_context.cc(235)] enterprise.crash_reporting: crash event reporting initializing
+[11044:4428:0908/144151.951:VERBOSE1:crash_reporting_context.cc(78)] enterprise.crash_reporting: crash reporting enabled: 0
+[11044:4428:0908/144151.951:VERBOSE1:crash_reporting_context.cc(118)] enterprise.crash_reporting: crashpad polling interval set to 3600 s
+[11044:4428:0908/144151.952:VERBOSE1:profile_manager.cc(1325)] AddKeepAlive(Default, kExtensionUpdater). keep_alives=[kBrowserWindow (1), kExtensionUpdater (1), kRemoteDebugging (1)]
+[11044:4428:0908/144151.952:VERBOSE1:profile_manager.cc(1377)] RemoveKeepAlive(Default, kExtensionUpdater). keep_alives=[kBrowserWindow (1), kRemoteDebugging (1)]
+[21024:20348:0908/144151.953:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[11044:4428:0908/144151.956:VERBOSE1:device_event_log_impl.cc(198)] [14:41:51.956] USB: USER: usb_service_win.cc:762 USB device added: path=\\?\usb#vid_8087&pid_0a2a#5&1bc3c09d&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=32903 "", product=2602 "", serial="", driver="BTHUSB", guid=f7674305-340d-488f-9fb1-d5c1d1223fd4
+[11044:4428:0908/144151.957:VERBOSE1:device_event_log_impl.cc(198)] [14:41:51.956] USB: DEBUG: usb_device_handle_win.cc:1057 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[11044:4428:0908/144151.957:VERBOSE1:device_event_log_impl.cc(198)] [14:41:51.957] USB: USER: usb_service_win.cc:762 USB device added: path=\\?\usb#vid_046d&pid_c52f#5&1bc3c09d&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=1133 "Logitech", product=50479 "USB Receiver", serial="", driver="usbccgp", guid=2fabd8a3-c4ba-4b10-8570-8d80ff774ae8
+[11044:4428:0908/144151.957:VERBOSE1:device_event_log_impl.cc(198)] [14:41:51.957] USB: DEBUG: usb_device_handle_win.cc:1057 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[11044:4428:0908/144151.958:VERBOSE1:device_event_log_impl.cc(198)] [14:41:51.957] USB: USER: usb_service_win.cc:762 USB device added: path=\\?\usb#vid_04f2&pid_b5d6#5&1bc3c09d&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=1266 "", product=46550 "", serial="", driver="usbccgp", guid=20f5e3fb-8c95-4682-adb1-f2d2776015a5
+[20776:10868:0908/144152.039:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144152.213:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3c4.png
+[21024:20348:0908/144152.213:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f305.png
+[21024:20348:0908/144152.215:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f52e.png
+[21024:20348:0908/144152.215:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26a0.png
+[21024:20348:0908/144152.216:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6d1.png
+[21024:20348:0908/144152.216:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26a1.png
+[21024:20348:0908/144152.216:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f490.png
+[21024:20348:0908/144152.218:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f648.png
+[20776:10868:0908/144152.218:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144152.218:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4e9.png
+[21024:20348:0908/144152.219:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4af.png
+[21024:20348:0908/144152.219:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2764.png
+[11044:4428:0908/144152.352:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[21024:20348:0908/144152.367:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws5.web.telegram.org/apiws
+[21024:20348:0908/144152.375:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTI4LjAuNjYxMy4xMjASGQlYfIwlsdornxIFDTJ8EW4hx6MWAeR4owY=?alt=proto
+[20776:10868:0908/144152.377:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[11044:4428:0908/144152.380:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1846639666
+  prediction: 0
+[11044:19504:0908/144152.470:VERBOSE1:component_installer.cc(452)] StartRegistration for Related Website Sets
+[11044:4428:0908/144152.476:VERBOSE1:component_installer.cc(531)] FinishRegistration for Related Website Sets
+[11044:4428:0908/144152.476:VERBOSE1:component_installer.cc(572)] Component ready, version 2024.8.10.0 in H:\Telegram Bot using selenium (NON GUI)\profile\FirstPartySetsPreloaded\2024.8.10.0
+[11044:4428:0908/144152.476:VERBOSE1:first_party_sets_component_installer_policy.cc(144)] Related Website Sets Component ready, version 2024.8.10.0 in H:\Telegram Bot using selenium (NON GUI)\profile\FirstPartySetsPreloaded\2024.8.10.0
+[21024:20348:0908/144152.692:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws5-1.web.telegram.org/apiws
+[21024:20348:0908/144153.162:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws2-1.web.telegram.org/apiws
+[20776:7608:0908/144153.244:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144153.244:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144153.296:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f451.png
+[21024:20348:0908/144153.296:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f34e.png
+[21024:20348:0908/144153.296:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f48e.png
+[21024:20348:0908/144153.296:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2705.png
+[21024:20348:0908/144153.296:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2b55.png
+[21024:20348:0908/144153.302:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f530.png
+[21024:20348:0908/144153.302:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f31f.png
+[21024:20348:0908/144153.302:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f493.png
+[21024:20348:0908/144153.303:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f371.png
+[21024:20348:0908/144153.303:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f355.png
+[21024:20348:0908/144153.303:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f37b.png
+[21024:20348:0908/144153.400:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/version.txt?1725786713399
+[21024:20348:0908/144153.652:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[21024:20348:0908/144153.658:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[21024:20348:0908/144153.658:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[21024:20348:0908/144153.658:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[11044:4428:0908/144153.772:VERBOSE1:segment_result_provider.cc(136)] GetSegmentResult: segment=OPTIMIZATION_TARGET_WEB_APP_INSTALLATION_PROMO ignoring DB score, executing model.
+[11044:4428:0908/144153.772:VERBOSE1:segment_result_provider.cc(293)] ExecuteModelAndGetScore: segment=OPTIMIZATION_TARGET_WEB_APP_INSTALLATION_PROMO signal collection not met
+[11044:4428:0908/144153.772:VERBOSE1:segment_result_provider.cc(186)] OnGotModelScore: segment=OPTIMIZATION_TARGET_WEB_APP_INSTALLATION_PROMO default provider not available
+[11044:4428:0908/144153.772:VERBOSE1:request_dispatcher.cc(146)] Computed result for web_app_installation_promo: Status: Not ready
+[21024:20348:0908/144154.427:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[21024:20348:0908/144155.405:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws4-1.web.telegram.org/apiws
+[11044:10152:0908/144155.784:VERBOSE1:media_stream_manager.cc(1533)] AOC::WedgeCheck => (stream is alive) [this=0x24E4000629E0]
+[20776:7608:0908/144155.967:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144156.142:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/fasttext-wasm.bd5b9292c04d265a9bfb.wasm
+[20776:7608:0908/144156.195:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[11044:19504:0908/144156.342:VERBOSE1:trust_token_key_commitments_component_installer_policy.cc(48)] Reading trust token key commitments from file: H:\Telegram Bot using selenium (NON GUI)\profile\TrustTokenKeyCommitments\2024.9.3.1\keys.json
+[11044:1188:0908/144156.452:VERBOSE1:file_type_policies_component_installer.cc(45)] Reading Download File Types from file: H:\Telegram Bot using selenium (NON GUI)\profile\FileTypePolicies\66\download_file_types.pb
+[21024:20348:0908/144156.542:VERBOSE1:trust_token_key_commitment_parser.cc(241)] Successfully parsed 6 issuers' Trust Tokens key commitments.
+[21024:20348:0908/144156.597:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+[21024:20348:0908/144156.602:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144156.650:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144156.650:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144156.712:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144156.712:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[11044:1188:0908/144156.712:VERBOSE1:tpcd_metadata_component_installer_policy.cc(46)] Reading TPCD Metadata from file: H:\Telegram Bot using selenium (NON GUI)\profile\TpcdMetadata\2024.9.4.1\metadata.pb
+[21024:20348:0908/144156.712:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144156.713:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144156.758:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[11044:10152:0908/144156.759:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:2
+[21024:20348:0908/144156.759:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[11044:4428:0908/144157.926:VERBOSE1:first_party_sets_component_installer.cc(44)] Received Related Website Sets
+[21024:20348:0908/144158.835:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4ec.png
+[20776:7608:0908/144159.462:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144159.462:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144159.462:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144159.532:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144159.548:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144159.754:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144159.877:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Stop([started=true]) [this=0x24E400065900]
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Pause() [controller=0x24E4000629E0]
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] AOC::Pause([state=playing]) [this=0x24E4000629E0]
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] WAOS::ReportAndResetStats => (num_glitches_detected=[0], cumulative_audio_lost=[0 ms], largest_glitch=[0 ms]) [this=0x24E400065900]
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (duration=10 sec) [this=0x24E4000629E0]
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (error_during_callback=false) [this=0x24E4000629E0]
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (average audio level=-inf dBFS) [this=0x24E4000629E0]
+[11044:10152:0908/144200.783:VERBOSE1:media_stream_manager.cc(1533)] AOC::Pause => (state=paused) [this=0x24E4000629E0]
+[11044:19504:0908/144205.535:VERBOSE1:update_service_proxy_win.cc(907)] RunPeriodicTasks
+[11044:10152:0908/144205.787:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Close() [this=0x24E400065900]
+[11044:10152:0908/144205.787:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Stop([started=false]) [this=0x24E400065900]
+[11044:10152:0908/144205.851:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close([state=paused]) [this=0x24E4000629E0]
+[11044:10152:0908/144205.851:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close => (state=closed) [this=0x24E4000629E0]
+[11044:10152:0908/144205.851:VERBOSE1:media_stream_manager.cc(1533)] ASR: number of detected audio glitches: 0 out of 501
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:12608:0908/144205.950:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[21024:20348:0908/144205.950:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTI4LjAuNjYxMy4xMjASJwmDaUjR8RJlpBIFDZFhlU4SBQ0yfBFuEgUNkWGVTiGKMHfmtwFthQ==?alt=proto
+[11044:4428:0908/144205.990:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1318412689
+  prediction: 0
+ Field
+  signature: 1846639666
+  prediction: 0
+ Field
+  signature: 1318412689
+  prediction: 0
+[11044:19504:0908/144206.161:VERBOSE1:update_service_proxy_win.cc(907)] RunPeriodicTasks
+[11044:19504:0908/144206.775:VERBOSE1:update_service_proxy_win.cc(907)] RunPeriodicTasks
+[21024:20348:0908/144206.848:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f480.png
+[21024:20348:0908/144206.848:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f525.png
+[21024:20348:0908/144206.849:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2764-fe0f-200d-1f525.png
+[21024:20348:0908/144206.880:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f60d.png
+[21024:20348:0908/144206.880:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f449.png
+[21024:20348:0908/144206.881:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5ff.png
+[21024:20348:0908/144206.881:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1fc.png
+[21024:20348:0908/144206.881:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1e6.png
+[21024:20348:0908/144206.881:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f9.png
+[21024:20348:0908/144206.881:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1e8.png
+[21024:20348:0908/144206.881:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1ed.png
+[21024:20348:0908/144206.882:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1ee.png
+[21024:20348:0908/144206.882:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f2.png
+[21024:20348:0908/144206.882:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1ea.png
+[21024:20348:0908/144206.882:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1eb.png
+[21024:20348:0908/144206.882:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1e7.png
+[21024:20348:0908/144206.882:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f4.png
+[21024:20348:0908/144206.883:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f0.png
+[21024:20348:0908/144206.883:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f535.png
+[21024:20348:0908/144206.884:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f3.png
+[21024:20348:0908/144206.884:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f8.png
+[21024:20348:0908/144206.884:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1ec.png
+[21024:20348:0908/144206.884:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f7.png
+[21024:20348:0908/144206.884:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f7e3.png
+[21024:20348:0908/144206.884:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f926-1f3fb.png
+[21024:20348:0908/144206.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f970.png
+[21024:20348:0908/144206.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f63b.png
+[21024:20348:0908/144206.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f618.png
+[21024:20348:0908/144206.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1ee-1f1f3.png
+[21024:20348:0908/144206.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26ab.png
+[21024:20348:0908/144206.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5a5.png
+[21024:20348:0908/144206.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/25aa.png
+[21024:20348:0908/144206.886:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3b6.png
+[21024:20348:0908/144206.886:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f538.png
+[21024:20348:0908/144206.887:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4ee.png
+[21024:20348:0908/144206.887:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f975.png
+[21024:20348:0908/144206.887:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4a6.png
+[21024:20348:0908/144206.887:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f608.png
+[21024:20348:0908/144206.888:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f8.png
+[21024:20348:0908/144206.888:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f632.png
+[21024:20348:0908/144206.888:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f48c.png
+[21024:20348:0908/144206.888:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2668.png
+[21024:20348:0908/144206.888:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5a4.png
+[21024:20348:0908/144206.888:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f95a.png
+[21024:20348:0908/144206.889:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/203c.png
+[21024:20348:0908/144206.889:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f7e1.png
+[21024:20348:0908/144206.889:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9b4.png
+[21024:20348:0908/144206.892:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f499.png
+[21024:20348:0908/144206.893:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f339.png
+[21024:20348:0908/144206.893:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/25b6.png
+[21024:20348:0908/144206.893:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6d2.png
+[21024:20348:0908/144206.893:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f37f.png
+[21024:20348:0908/144206.894:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f39f.png
+[21024:20348:0908/144206.894:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4fd.png
+[21024:20348:0908/144206.894:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f39e.png
+[21024:20348:0908/144206.894:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ac.png
+[21024:20348:0908/144206.895:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f602.png
+[21024:20348:0908/144206.895:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f517.png
+[21024:20348:0908/144206.895:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2753.png
+[21024:20348:0908/144206.895:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5d3.png
+[21024:20348:0908/144206.895:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4e7.png
+[21024:20348:0908/144206.896:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4bc.png
+[21024:20348:0908/144206.896:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4b5.png
+[21024:20348:0908/144206.896:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f522.png
+[21024:20348:0908/144206.896:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4de.png
+[21024:20348:0908/144206.900:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f539.png
+[21024:20348:0908/144206.901:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/23e9.png
+[21024:20348:0908/144206.901:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2728.png
+[21024:20348:0908/144206.902:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f47b.png
+[21024:20348:0908/144206.902:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f51e.png
+[21024:20348:0908/144206.902:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f476.png
+[21024:20348:0908/144206.903:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f440.png
+[21024:20348:0908/144206.903:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f469-200d-1f9b3.png
+[21024:20348:0908/144206.903:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9d1.png
+[21024:20348:0908/144206.903:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f469.png
+[21024:20348:0908/144206.904:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1fae6.png
+[21024:20348:0908/144206.904:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f7.png
+[21024:20348:0908/144206.904:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f595.png
+[21024:20348:0908/144206.904:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f973.png
+[21024:20348:0908/144206.904:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4b8.png
+[21024:20348:0908/144206.927:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/27a1.png
+[21024:20348:0908/144206.929:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4a5.png
+[21024:20348:0908/144206.929:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f469-200d-2764-fe0f-200d-1f468.png
+[21024:20348:0908/144206.929:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f550.png
+[21024:20348:0908/144206.930:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f916.png
+[21024:20348:0908/144206.930:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f48e.png
+[21024:20348:0908/144206.930:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4c1.png
+[21024:20348:0908/144206.930:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4bb.png
+[21024:20348:0908/144206.931:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3a5.png
+[21024:20348:0908/144206.931:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6e1.png
+[21024:20348:0908/144206.931:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3d7.png
+[21024:20348:0908/144206.931:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4ca.png
+[21024:20348:0908/144206.931:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f1.png
+[21024:20348:0908/144206.931:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f58c.png
+[21024:20348:0908/144206.932:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4c8.png
+[21024:20348:0908/144206.932:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f9.png
+[21024:20348:0908/144206.932:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ae.png
+[21024:20348:0908/144206.932:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4cc.png
+[21024:20348:0908/144206.932:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4d7.png
+[21024:20348:0908/144206.933:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f396.png
+[21024:20348:0908/144206.933:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f60a.png
+[21024:20348:0908/144206.936:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2660.png
+[21024:20348:0908/144206.937:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f601.png
+[21024:20348:0908/144206.937:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f44d.png
+[21024:20348:0908/144206.938:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f170.png
+[20776:10868:0908/144206.939:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[11044:19504:0908/144207.353:VERBOSE1:update_service_proxy_win.cc(868)] ~UpdateServiceProxyImpl
+[11044:8008:0908/144207.443:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144207.444:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144207.444:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144207.444:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144207.445:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144207.445:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144207.445:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144207.445:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:4428:0908/144207.445:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1318412689
+  prediction: 0
+ Field
+  signature: 1846639666
+  prediction: 0
+ Field
+  signature: 1318412689
+  prediction: 0
+[11044:4428:0908/144207.445:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[20776:10868:0908/144207.568:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144207.680:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws1-1.web.telegram.org/apiws
+[21024:20348:0908/144208.193:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1fac0.png
+[21024:20348:0908/144208.193:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4b1.png
+[21024:20348:0908/144208.193:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2620.png
+[21024:20348:0908/144208.599:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTI4LjAuNjYxMy4xMjASIAmvoSZ5dEKBlRIFDTJ8EW4SBQ2RYZVOIQgK0TAYLoAZ?alt=proto
+[11044:4428:0908/144208.638:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1846639666
+  prediction: 0
+ Field
+  signature: 1318412689
+  prediction: 0
+[21024:20348:0908/144211.675:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ee.png
+[21024:20348:0908/144211.676:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9e1.png
+[21024:20348:0908/144211.676:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9e7.png
+[21024:20348:0908/144211.676:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5fb.png
+[21024:20348:0908/144211.677:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f409.png
+[21024:20348:0908/144211.677:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26f7.png
+[21024:20348:0908/144211.677:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/267b.png
+[21024:20348:0908/144211.677:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1fabb.png
+[21024:20348:0908/144211.678:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26c8.png
+[21024:20348:0908/144211.678:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4a8.png
+[21024:20348:0908/144211.678:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ab.png
+[21024:20348:0908/144211.678:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3b5.png
+[21024:20348:0908/144211.679:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3a1.png
+[21024:20348:0908/144211.679:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f320.png
+[21024:20348:0908/144211.679:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f300.png
+[21024:20348:0908/144211.679:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f989.png
+[21024:20348:0908/144211.679:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6f8.png
+[21024:20348:0908/144211.680:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f950.png
+[21024:20348:0908/144211.680:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f397.png
+[21024:20348:0908/144211.680:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f0cf.png
+[21024:20348:0908/144211.680:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2714.png
+[21024:20348:0908/144211.681:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f911.png
+[21024:20348:0908/144211.681:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f47c.png
+[21024:20348:0908/144211.681:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/270f.png
+[21024:20348:0908/144211.681:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f494.png
+[21024:20348:0908/144211.681:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2604.png
+[21024:20348:0908/144211.682:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f534.png
+[21024:20348:0908/144211.682:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f524.png
+[21024:20348:0908/144211.682:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0031-20e3.png
+[21024:20348:0908/144211.682:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f520.png
+[21024:20348:0908/144211.682:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0032-20e3.png
+[21024:20348:0908/144211.682:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0033-20e3.png
+[21024:20348:0908/144211.683:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0034-20e3.png
+[21024:20348:0908/144211.683:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0035-20e3.png
+[21024:20348:0908/144211.683:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0036-20e3.png
+[21024:20348:0908/144211.683:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0037-20e3.png
+[21024:20348:0908/144211.683:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0038-20e3.png
+[21024:20348:0908/144211.684:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0039-20e3.png
+[21024:20348:0908/144211.684:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/0030-20e3.png
+[21024:20348:0908/144211.684:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f64f.png
+[20776:7608:0908/144212.212:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.219:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.221:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.221:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.222:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.222:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.223:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.223:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.375:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.377:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.378:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.378:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.381:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.382:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.383:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.383:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.383:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.384:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144212.541:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4fa.png
+[21024:20348:0908/144212.541:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6ab.png
+[20776:7608:0908/144212.636:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.652:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.770:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.770:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.770:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.770:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144212.770:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144213.172:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144213.173:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144213.174:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.656:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.696:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.696:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.696:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.696:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.696:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.701:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.702:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.704:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.705:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.706:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144220.707:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144227.188:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[21024:20348:0908/144246.746:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json?cup2key=14:G_5h_63cCrGrXNK2WeLifzHaFsUwGkB5UqVtxnUds8s&cup2hreq=27251eae17098d0f20a2661e715c3c2be7c446d59b51c2a116aa2063aeda1c39
+[11044:4428:0908/144247.060:VERBOSE1:model_executor_impl.cc(177)] Segmentation model input:  feature 0: 1 feature 1: 0 feature 2: 0 feature 3: 0 feature 4: 0 feature 5: 0 feature 6: 0 feature 7: 0 feature 8: 0 feature 9: 0 for segment OPTIMIZATION_TARGET_SEGMENTATION_DEVICE_SWITCHER
+[11044:4428:0908/144247.060:VERBOSE1:model_executor_impl.cc(205)] Segmentation model result:  output 0: 0 output 1: 0 output 2: 0 output 3: 0 output 4: 0 output 5: 0 output 6: 0 output 7: 1 for segment OPTIMIZATION_TARGET_SEGMENTATION_DEVICE_SWITCHER
+[11044:4428:0908/144247.060:VERBOSE1:segment_result_provider.cc(29)] ComputeDiscreteMapping: segment=: result=0, rank=0
+[11044:4428:0908/144247.060:VERBOSE1:segment_result_provider.cc(357)] OnModelExecuted: Default model executed successfully. Result: PredictionResult: timestamp: 13370260367060100 result 0: 0 result 1: 0 result 2: 0 result 3: 0 result 4: 0 result 5: 0 result 6: 0 result 7: 1 for segment OPTIMIZATION_TARGET_SEGMENTATION_DEVICE_SWITCHER
+[11044:4428:0908/144247.060:VERBOSE1:request_dispatcher.cc(146)] Computed result for device_switcher: Status: Succeeded output 0: NotSynced
+[11044:4428:0908/144247.281:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json?cup2key=14:G_5h_63cCrGrXNK2WeLifzHaFsUwGkB5UqVtxnUds8s&cup2hreq=27251eae17098d0f20a2661e715c3c2be7c446d59b51c2a116aa2063aeda1c39
+[11044:4428:0908/144250.559:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[21024:20348:0908/144250.560:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/
+[20776:10868:0908/144250.602:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 0
+[20776:10868:0908/144250.605:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  00006CCC00326020
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[20776:10868:0908/144250.606:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[20776:10868:0908/144250.606:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[11044:4428:0908/144250.621:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[20776:10868:0908/144250.624:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[20776:10868:0908/144250.624:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[20776:10868:0908/144250.876:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144250.889:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144250.889:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/notification.mp3
+[11044:10152:0908/144250.906:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::RequestDeviceAuthorization({device_id=}) [process_id=7, frame_id=13]
+[20776:10868:0908/144251.005:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144251.042:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144251.205:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4ca.png
+[20776:10868:0908/144251.317:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[11044:4428:0908/144251.489:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1846639666
+  prediction: 0
+[11044:10152:0908/144251.591:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted({status=OK}, {params=format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 0, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0}, {device_id=default}) [process_id=7, frame_id=13]
+[11044:10152:0908/144251.591:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted => (authorization time=683 ms) [process_id=7, frame_id=13]
+[11044:10152:0908/144251.603:VERBOSE1:media_stream_manager.cc(1533)] AMB::MakeAudioOutputStream({device_id={0.0.0.00000000}.{ca101b3a-e4b3-47f7-be43-5a4a5b63579b}}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 384, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0]})
+[11044:10152:0908/144251.603:VERBOSE1:media_stream_manager.cc(1533)] WAOS::WASAPIAudioOutputStream({device_id={0.0.0.00000000}.{ca101b3a-e4b3-47f7-be43-5a4a5b63579b}}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 384, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0]}, {role=Console}) [this=0x24E400065680]
+[11044:10152:0908/144251.603:VERBOSE1:media_stream_manager.cc(1533)] AMB::MakeAudioOutputStream => (number of streams=1)
+[11044:10152:0908/144251.603:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Open([opened=false]) [this=0x24E400065680]
+[11044:10152:0908/144251.607:VERBOSE1:media_stream_manager.cc(1533)] WAOS::SetupWaveFormat => (audio engine format=[wFormatTag: WAVE_FORMAT_EXTENSIBLE (0xFFFE), nChannels: 2, nSamplesPerSec: 48000, nAvgBytesPerSec: 384000, nBlockAlign: 8, wBitsPerSample: 32, cbSize: 22 [+] wValidBitsPerSample: 32, dwChannelMask: FRONT_LEFT | FRONT_RIGHT (2), SubFormat: KSDATAFORMAT_SUBTYPE_IEEE_FLOAT]) [this=0x24E400065680]
+[11044:10152:0908/144251.607:VERBOSE1:media_stream_manager.cc(1533)] WAOS::SetupWaveFormat => (packet size=[3840 bytes/480 audio frames/10.000 ms]) [this=0x24E400065680]
+[11044:19504:0908/144251.626:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/hfnkpimlhhgieaddgfemjhofmfblmnib/1.5dd0e1c893709bf69f1e50d1a264530ecd27019b30dccd97b2e80b99a8f44f10/1.2ee6168e15e8007829133b1d058ccb655b4274869b185498e52a9dbbe9d6b5c2/759f1815e1f8b01c51ac427abe4d653b419a75e4828992c168f8d62177b35896
+[21024:20348:0908/144251.753:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/site.webmanifest
+[21024:20348:0908/144251.753:VERBOSE1:url_loader.cc(1863)] Will sniff content for mime type: https://web.telegram.org/a/site.webmanifest
+[21024:20348:0908/144251.753:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws5.web.telegram.org/apiws
+[21024:20348:0908/144251.770:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/icon-192x192.png
+[11044:4428:0908/144251.770:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/ : Yes
+[11044:4428:0908/144251.857:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[21024:20348:0908/144251.869:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/manu
+[11044:10152:0908/144252.265:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Open => (preferred_frames_per_buffer=[480 audio frames]) [this=0x24E400065680]
+[11044:10152:0908/144252.266:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Ctor({audio_manager_name=Windows}, {device_id=default}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}) [controller=0x24E4000629E0]
+[11044:10152:0908/144252.266:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream([state=empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144252.266:VERBOSE1:media_stream_manager.cc(1533)] AOC::RecreateStream({reason = INITIAL_STREAM}, {params = [format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}, [state = empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144252.266:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream => (state=created) [this=0x24E4000629E0]
+[11044:10152:0908/144252.266:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::CreateAudioPipe() [controller=0x24E4000629E0]
+[11044:10152:0908/144252.266:VERBOSE1:media_stream_manager.cc(1533)] WAOS::SetVolume({volume=1.00}) [this=0x24E400065680]
+[11044:10152:0908/144252.266:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Start([opened=true, started=false]) [this=0x24E400065680]
+[11044:10152:0908/144252.270:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Play() [controller=0x24E4000629E0]
+[11044:10152:0908/144252.270:VERBOSE1:media_stream_manager.cc(1533)] AOC::Play([state=created]) [this=0x24E4000629E0]
+[11044:10152:0908/144252.270:VERBOSE1:media_stream_manager.cc(1533)] AOC::StartStream => (state=playing) [this=0x24E4000629E0]
+[11044:4428:0908/144252.365:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/ : Yes
+[11044:4428:0908/144252.366:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/ : Yes
+[21024:20348:0908/144252.392:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws5-1.web.telegram.org/apiws
+[11044:4428:0908/144252.396:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCurrentBackForwardCacheEligibility: https://web.telegram.org/a/ : Yes
+[20776:10868:0908/144252.398:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  00006CCC02795870
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[20776:10868:0908/144252.398:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[20776:10868:0908/144252.398:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 2
+[11044:4428:0908/144252.403:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144252.411:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCurrentBackForwardCacheEligibility: https://web.telegram.org/a/ : No: blocklisted features: WebSocket live connection, requested broadcast channel permission
+[11044:10152:0908/144252.413:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close([state=playing]) [this=0x24E4000629E0]
+[11044:10152:0908/144252.413:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (duration=0 sec) [this=0x24E4000629E0]
+[11044:10152:0908/144252.413:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (error_during_callback=false) [this=0x24E4000629E0]
+[11044:10152:0908/144252.413:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (average audio level=-inf dBFS) [this=0x24E4000629E0]
+[11044:10152:0908/144252.413:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close => (state=closed) [this=0x24E4000629E0]
+[11044:10152:0908/144252.413:VERBOSE1:media_stream_manager.cc(1533)] ASR: number of detected audio glitches: 0 out of 8
+[11044:10152:0908/144252.414:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Stop([started=true]) [this=0x24E400065680]
+[11044:10152:0908/144252.415:VERBOSE1:media_stream_manager.cc(1533)] WAOS::ReportAndResetStats => (num_glitches_detected=[0], cumulative_audio_lost=[0 ms], largest_glitch=[0 ms]) [this=0x24E400065680]
+[20776:10868:0908/144252.418:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 1
+[20776:10868:0908/144252.450:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[20776:10868:0908/144252.450:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[11044:4428:0908/144252.451:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[11044:4428:0908/144252.451:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCompleteBackForwardCacheEligibilityForReporting: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[11044:4428:0908/144252.453:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[21024:20348:0908/144252.453:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/#-1002443402979
+[11044:4428:0908/144252.475:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetFutureBackForwardCacheEligibilityPotential: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[11044:4428:0908/144252.475:VERBOSE1:back_forward_cache_impl.cc(725)] BackForwardCacheImpl::GetCompleteBackForwardCacheEligibilityForReporting: https://web.telegram.org/a/manu : No: HTTP status is not OK
+[20776:10868:0908/144252.480:VERBOSE1:dispatcher.cc(596)] Num tracked contexts: 0
+[20776:10868:0908/144252.483:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  00006CCC02795870
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[20776:10868:0908/144252.483:VERBOSE1:script_context.cc(151)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[20776:10868:0908/144252.483:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[20776:10868:0908/144252.486:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[20776:10868:0908/144252.486:VERBOSE1:script_context.cc(164)] Destroyed context for extension
+  extension id: 
+  effective extension id: 
+[11044:4428:0908/144252.488:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[20776:10868:0908/144252.509:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144252.522:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144252.526:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/notification.mp3
+[11044:10152:0908/144252.534:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::RequestDeviceAuthorization({device_id=}) [process_id=7, frame_id=17]
+[11044:4428:0908/144252.536:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:10152:0908/144252.546:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted({status=OK}, {params=format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 480, effects: 0, mic_positions: , hw_capabilities: min_frames_per_buffer: 480, max_frames_per_buffer: 480, bitstream_formats:0, require_encapsulation:0, require_audio_offload:0}, {device_id=default}) [process_id=7, frame_id=17]
+[11044:10152:0908/144252.546:VERBOSE1:media_stream_manager.cc(1533)] RFAOSF::AuthorizationCompleted => (authorization time=14 ms) [process_id=7, frame_id=17]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Ctor({audio_manager_name=Windows}, {device_id=default}, {params=[format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}) [controller=0x24E4000629E0]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream([state=empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] AOC::RecreateStream({reason = INITIAL_STREAM}, {params = [format: PCM_LOW_LATENCY, channel_layout: 3, channels: 2, sample_rate: 48000, frames_per_buffer: 960, effects: 384, mic_positions: ]}, [state = empty]) [this=0x24E4000629E0]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] AOC::CreateStream => (state=created) [this=0x24E4000629E0]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::CreateAudioPipe() [controller=0x24E4000629E0]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] WAOS::SetVolume({volume=1.00}) [this=0x24E400065680]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Start([opened=true, started=false]) [this=0x24E400065680]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] audio::OS::Play() [controller=0x24E4000629E0]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] AOC::Play([state=created]) [this=0x24E4000629E0]
+[11044:10152:0908/144252.559:VERBOSE1:media_stream_manager.cc(1533)] AOC::StartStream => (state=playing) [this=0x24E4000629E0]
+[20776:10868:0908/144252.648:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144252.682:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144252.686:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/site.webmanifest
+[21024:20348:0908/144252.686:VERBOSE1:url_loader.cc(1863)] Will sniff content for mime type: https://web.telegram.org/a/site.webmanifest
+[21024:20348:0908/144252.856:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/icon-192x192.png
+[20776:10868:0908/144253.056:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[20776:10868:0908/144253.148:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[11044:4428:0908/144253.154:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[11044:4428:0908/144253.202:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1846639666
+  prediction: 0
+[21024:20348:0908/144253.204:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws5.web.telegram.org/apiws
+[20776:10868:0908/144253.208:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144253.495:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws5-1.web.telegram.org/apiws
+[21024:20348:0908/144254.340:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/version.txt?1725786774337
+[11044:10152:0908/144254.367:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Stop([started=true]) [this=0x24E400065680]
+[11044:10152:0908/144254.369:VERBOSE1:media_stream_manager.cc(1533)] WAOS::ReportAndResetStats => (num_glitches_detected=[0], cumulative_audio_lost=[0 ms], largest_glitch=[0 ms]) [this=0x24E400065680]
+[11044:10152:0908/144254.369:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close([state=playing]) [this=0x24E4000629E0]
+[11044:10152:0908/144254.369:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (duration=1 sec) [this=0x24E4000629E0]
+[11044:10152:0908/144254.369:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (error_during_callback=false) [this=0x24E4000629E0]
+[11044:10152:0908/144254.369:VERBOSE1:media_stream_manager.cc(1533)] AOC::StopStream => (average audio level=-inf dBFS) [this=0x24E4000629E0]
+[11044:10152:0908/144254.369:VERBOSE1:media_stream_manager.cc(1533)] AOC::Close => (state=closed) [this=0x24E4000629E0]
+[11044:10152:0908/144254.370:VERBOSE1:media_stream_manager.cc(1533)] ASR: number of detected audio glitches: 0 out of 91
+[20776:7608:0908/144254.396:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.400:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.400:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.401:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.402:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.403:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.403:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.403:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.403:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.403:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.430:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.430:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.431:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.432:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.432:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144254.436:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144254.571:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[21024:20348:0908/144254.586:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[21024:20348:0908/144254.599:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[21024:20348:0908/144254.606:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/rlottie-wasm.wasm
+[11044:4428:0908/144255.661:VERBOSE1:segment_result_provider.cc(136)] GetSegmentResult: segment=OPTIMIZATION_TARGET_WEB_APP_INSTALLATION_PROMO ignoring DB score, executing model.
+[11044:4428:0908/144255.661:VERBOSE1:segment_result_provider.cc(293)] ExecuteModelAndGetScore: segment=OPTIMIZATION_TARGET_WEB_APP_INSTALLATION_PROMO signal collection not met
+[11044:4428:0908/144255.661:VERBOSE1:segment_result_provider.cc(186)] OnGotModelScore: segment=OPTIMIZATION_TARGET_WEB_APP_INSTALLATION_PROMO default provider not available
+[11044:4428:0908/144255.661:VERBOSE1:request_dispatcher.cc(146)] Computed result for web_app_installation_promo: Status: Not ready
+[21024:20348:0908/144256.183:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[11044:12608:0908/144256.205:VERBOSE1:unpacker.cc(66)] Verifying component: H:\Telegram Bot using selenium (NON GUI)\profile\component_crx_cache\temp_1.5dd0e1c893709bf69f1e50d1a264530ecd27019b30dccd97b2e80b99a8f44f10
+[11044:12608:0908/144256.221:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\91948\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping11044_2065474156
+[11044:8008:0908/144256.371:VERBOSE1:component_installer.cc(146)] Install: version=9098 current version=9097
+[11044:8008:0908/144256.371:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\91948\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping11044_2065474156 install_path=H:\Telegram Bot using selenium (NON GUI)\profile\CertificateRevocation\9098
+[11044:4428:0908/144256.381:VERBOSE1:component_installer.cc(572)] Component ready, version 9098 in H:\Telegram Bot using selenium (NON GUI)\profile\CertificateRevocation\9098
+[21024:20348:0908/144256.381:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[21024:20348:0908/144256.381:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.428:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.428:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.496:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.496:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.496:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.496:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.496:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[21024:20348:0908/144256.496:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[11044:4428:0908/144256.678:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[11044:4428:0908/144256.679:VERBOSE1:component_updater_service.cc(472)] Update completed with error 0
+[21024:20348:0908/144256.942:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/fasttext-wasm.bd5b9292c04d265a9bfb.wasm
+[21024:20348:0908/144258.741:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[11044:10152:0908/144259.089:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=54})
+[11044:10152:0908/144259.372:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Close() [this=0x24E400065680]
+[11044:10152:0908/144259.373:VERBOSE1:media_stream_manager.cc(1533)] WAOS::Stop([started=false]) [this=0x24E400065680]
+[11044:10152:0908/144300.100:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=49})
+[11044:10152:0908/144301.102:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=47})
+[11044:10152:0908/144302.109:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=43})
+[11044:10152:0908/144303.116:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=45})
+[11044:10152:0908/144304.124:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=42})
+[11044:10152:0908/144305.130:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=44})
+[11044:10152:0908/144306.133:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=46})
+[11044:10152:0908/144307.137:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=48})
+[11044:10152:0908/144309.151:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=45})
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144310.964:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:4428:0908/144310.964:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1318412689
+  prediction: 0
+ Field
+  signature: 1846639666
+  prediction: 0
+ Field
+  signature: 1318412689
+  prediction: 0
+[11044:10152:0908/144311.159:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E24000B2340}, {new_limit=100})
+[21024:20348:0908/144312.104:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f1.png
+[21024:20348:0908/144312.104:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4a5.png
+[21024:20348:0908/144312.105:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f600.png
+[21024:20348:0908/144312.105:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5ff.png
+[21024:20348:0908/144312.105:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4ec.png
+[21024:20348:0908/144312.106:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6a7.png
+[21024:20348:0908/144312.106:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f516.png
+[21024:20348:0908/144312.106:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4cc.png
+[21024:20348:0908/144312.107:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f383.png
+[21024:20348:0908/144312.107:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5e3.png
+[21024:20348:0908/144312.107:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f538.png
+[21024:20348:0908/144312.108:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/23f3.png
+[21024:20348:0908/144312.111:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6ac.png
+[21024:20348:0908/144312.111:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f517.png
+[21024:20348:0908/144312.111:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f535.png
+[21024:20348:0908/144312.112:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ee.png
+[21024:20348:0908/144312.113:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9e1.png
+[21024:20348:0908/144312.113:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9e7.png
+[21024:20348:0908/144312.113:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5fb.png
+[21024:20348:0908/144312.114:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f409.png
+[21024:20348:0908/144312.114:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26f7.png
+[21024:20348:0908/144312.114:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/267b.png
+[21024:20348:0908/144312.114:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1fabb.png
+[21024:20348:0908/144312.114:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26c8.png
+[21024:20348:0908/144312.115:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4a8.png
+[21024:20348:0908/144312.115:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2660.png
+[21024:20348:0908/144312.116:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f440.png
+[21024:20348:0908/144312.116:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f530.png
+[21024:20348:0908/144312.116:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f601.png
+[21024:20348:0908/144312.116:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f60d.png
+[21024:20348:0908/144312.117:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f44d.png
+[21024:20348:0908/144312.121:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f170.png
+[21024:20348:0908/144312.121:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2728.png
+[21024:20348:0908/144312.125:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f7e2.png
+[21024:20348:0908/144312.125:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6cd.png
+[21024:20348:0908/144312.125:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f91e.png
+[21024:20348:0908/144312.125:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f447.png
+[21024:20348:0908/144312.126:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6dc.png
+[21024:20348:0908/144312.126:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f449.png
+[21024:20348:0908/144312.126:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f448.png
+[21024:20348:0908/144312.126:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f451.png
+[21024:20348:0908/144312.126:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2764-fe0f-200d-1fa79.png
+[21024:20348:0908/144312.128:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f47b.png
+[21024:20348:0908/144312.128:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f51e.png
+[21024:20348:0908/144312.129:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f476.png
+[21024:20348:0908/144312.129:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f480.png
+[21024:20348:0908/144312.129:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f469-200d-1f9b3.png
+[21024:20348:0908/144312.129:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9d1.png
+[21024:20348:0908/144312.129:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f469.png
+[21024:20348:0908/144312.130:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1fae6.png
+[21024:20348:0908/144312.130:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f7.png
+[21024:20348:0908/144312.130:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f975.png
+[21024:20348:0908/144312.130:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f595.png
+[21024:20348:0908/144312.130:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f973.png
+[21024:20348:0908/144312.130:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4b8.png
+[21024:20348:0908/144312.131:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f381.png
+[21024:20348:0908/144312.131:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f340.png
+[21024:20348:0908/144312.131:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5d3.png
+[21024:20348:0908/144312.131:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4e7.png
+[21024:20348:0908/144312.131:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4bc.png
+[21024:20348:0908/144312.132:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4b5.png
+[21024:20348:0908/144312.132:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f522.png
+[21024:20348:0908/144312.132:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4de.png
+[21024:20348:0908/144312.135:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f98a.png
+[21024:20348:0908/144312.136:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4e1.png
+[21024:20348:0908/144312.136:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f30c.png
+[21024:20348:0908/144312.136:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f929.png
+[21024:20348:0908/144312.136:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f469-200d-1f692.png
+[21024:20348:0908/144312.137:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2b50.png
+[21024:20348:0908/144312.137:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5a4.png
+[21024:20348:0908/144312.137:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f92a.png
+[21024:20348:0908/144312.137:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f924.png
+[21024:20348:0908/144312.138:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f497.png
+[21024:20348:0908/144312.138:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f62f.png
+[21024:20348:0908/144312.138:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f2.png
+[21024:20348:0908/144312.139:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/25aa.png
+[21024:20348:0908/144312.139:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/25fe.png
+[21024:20348:0908/144312.139:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1fa-1f1ff.png
+[21024:20348:0908/144312.139:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f525.png
+[21024:20348:0908/144312.139:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f539.png
+[21024:20348:0908/144312.142:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f614.png
+[21024:20348:0908/144312.142:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3b8.png
+[21024:20348:0908/144312.143:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2714.png
+[21024:20348:0908/144312.143:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/27a1.png
+[21024:20348:0908/144312.143:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f39a.png
+[21024:20348:0908/144312.143:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f308.png
+[21024:20348:0908/144312.143:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f48c.png
+[21024:20348:0908/144312.146:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f98b.png
+[21024:20348:0908/144312.147:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2796.png
+[21024:20348:0908/144312.147:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/25fd.png
+[21024:20348:0908/144312.147:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4ea.png
+[21024:20348:0908/144312.154:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6ab.png
+[21024:20348:0908/144312.154:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4db.png
+[21024:20348:0908/144312.154:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26d4.png
+[21024:20348:0908/144312.154:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2709.png
+[21024:20348:0908/144312.156:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f469-200d-2764-fe0f-200d-1f468.png
+[21024:20348:0908/144312.156:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f550.png
+[21024:20348:0908/144312.156:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f5a5.png
+[21024:20348:0908/144312.156:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f916.png
+[21024:20348:0908/144312.157:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f48e.png
+[21024:20348:0908/144312.157:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4c1.png
+[21024:20348:0908/144312.157:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4bb.png
+[21024:20348:0908/144312.157:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3a5.png
+[21024:20348:0908/144312.157:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6e1.png
+[21024:20348:0908/144312.158:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3d7.png
+[21024:20348:0908/144312.158:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f58c.png
+[21024:20348:0908/144312.158:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4c8.png
+[21024:20348:0908/144312.158:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4f9.png
+[21024:20348:0908/144312.158:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ae.png
+[21024:20348:0908/144312.159:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4d7.png
+[21024:20348:0908/144312.159:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f396.png
+[21024:20348:0908/144312.159:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f60a.png
+[21024:20348:0908/144312.159:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f389.png
+[21024:20348:0908/144312.159:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f680.png
+[21024:20348:0908/144312.164:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9b4.png
+[21024:20348:0908/144312.166:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/265f.png
+[21024:20348:0908/144312.166:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/26bd.png
+[21024:20348:0908/144312.166:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f60f.png
+[21024:20348:0908/144312.166:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3c1.png
+[20776:10868:0908/144312.166:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:8008:0908/144312.713:VERBOSE1:field_candidates.cc(39)] type: 97 score: 0.8
+[11044:4428:0908/144312.713:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1318412689
+  prediction: 0
+ Field
+  signature: 1846639666
+  prediction: 0
+ Field
+  signature: 1318412689
+  prediction: 0
+[11044:4428:0908/144312.740:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(312)] MutablePO2TS::RefreshTokenIsAvailable
+[20776:10868:0908/144313.035:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[21024:20348:0908/144313.113:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[21024:20348:0908/144313.220:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws2-1.web.telegram.org/apiws
+[21024:20348:0908/144313.222:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws1-1.web.telegram.org/apiws
+[21024:20348:0908/144313.412:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f49b.png
+[21024:20348:0908/144313.412:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f534.png
+[21024:20348:0908/144313.412:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f514.png
+[11044:4428:0908/144314.325:VERBOSE1:autofill_crowdsourcing_encoding.cc(755)] Autofill query response from API was successfully parsed: 
+Form
+ Field
+  signature: 1846639666
+  prediction: 0
+ Field
+  signature: 1318412689
+  prediction: 0
+[21024:20348:0908/144314.574:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f345.png
+[21024:20348:0908/144315.606:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: wss://zws4-1.web.telegram.org/apiws
+[20776:7608:0908/144315.685:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144315.797:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js
+[20776:7608:0908/144315.903:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4a6.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f408-200d-2b1b.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f171.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ac.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3ab.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f39f.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f37f.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3b5.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f3a1.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f320.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f300.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f989.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6f8.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f950.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f397.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2668.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f0cf.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f311.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f98d.png
+[21024:20348:0908/144318.712:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f353.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f352.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f48b.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/24c2.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/2795.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f64b-200d-2640-fe0f.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4e3.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6a8.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f338.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f1f5-1f1ed.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f6d2.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9fe.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f34e.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4dc.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4c3.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f9ea.png
+[21024:20348:0908/144318.728:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/img-apple-64/1f4e8.png
+[11044:4428:0908/144319.197:INFO:CONSOLE(1)] "[object DOMException]", source: https://web.telegram.org/a/main.3a45cb8d8f2e7c7429a8.js (1)
+[11044:4428:0908/144319.197:INFO:CONSOLE(1)] "[object DOMException]", source: https://web.telegram.org/a/main.3a45cb8d8f2e7c7429a8.js (1)
+[20776:7608:0908/144319.600:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144319.600:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144319.600:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144319.600:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144319.600:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144319.751:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144320.320:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20776:7608:0908/144320.595:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[21024:20348:0908/144323.014:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://web.telegram.org/a/5284.629ee4da6abee38dd8b9.js

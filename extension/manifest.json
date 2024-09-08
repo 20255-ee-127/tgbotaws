@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Modify Headers",
+    "version": "1.0",
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "*://*/*"
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
